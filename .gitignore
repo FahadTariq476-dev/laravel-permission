@@ -3,3 +3,5 @@ composer.lock
 vendor
 tests/temp
 .idea
+config.bat
+node_modules
