@@ -6,3 +6,5 @@ tests/temp
 .phpunit.result.cache
 .php_cs.cache
 
+config.bat
+node_modules
